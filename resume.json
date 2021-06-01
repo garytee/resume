@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Gary Tietjen",
+    "label": "",
+    "picture": "",
+    "email": "gary@garyt.me",
+    "phone": "(516) 690-7442",
+    "website": "https://garyt.me",
+    "location": {
+      "city": "Long Island City",
+      "countryCode": "US",
+      "region": "NY"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Chorusy",
+      "position": " Web Developer, Owner",
+      "startDate": "2016-11-01",
+      "summary": "",
+      "highlights": [
+        "Full-stack web development work to build websites for clients, created with custom editing, reusability, and site optimization in mind. Primarily using Wordpress, MySQL, PHP, JS, jQuery, SCSS",
+        "Working one on one with clients to assess website needs & strategy",
+        "Advising clients on UX best practices, information architecture, and SEO optimization",
+        "Collaborating with designers, other developers, & SEO specialists to efficiently develop websites",
+        "Clients include 12 Oaks Desserts, COPE (Centers of Psychiatric Excellence), Crownpeak, NQ Industriest"
+      ]
+    },
+    {
+      "company": "EGC Group",
+      "position": "Lead Web Developer",
+      "startDate": "2014-09-17",
+      "endDate": "2016-10-27",
+      "summary": "",
+      "highlights": [
+        "Collaborated with project managers, designers, and development team to plan and build websites for clients on schedule",
+        "Provided insight to project managers & clients on website best practices",
+        "Tech Stack: Wordpress, jQuery, SCSS, HTML, PHP, MySQL, Laravel, Python"
+      ]
+    },
+    {
+      "company": "EGC Group",
+      "position": "Web Developer",
+      "startDate": "2014-02-17",
+      "endDate": "2014-09-17",
+      "summary": "",
+      "highlights": [
+        "Collaborated with project managers, designers, and development team to plan & build websites on schedule",
+        "Created interactive, custom digital signage using Raspberry Pi and Python"
+      ]
+    },
+    {
+      "company": "David Lerner Associates ",
+      "position": "IT Coordinator",
+      "startDate": "2008-02-01",
+      "endDate": "2011-06-01",
+      "highlights": [
+        "Provided in person & remote help to employees in office locations across New York, New Jersey, Connecticut & Florida",
+        "Trained company staff on proper security measures",
+        "Traveled to new office locations and assisted in the setup of computer equipment & security"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pace University",
+      "area": "Business Management",
+      "studyType": "BBA",
+      "location": "New York, NY",
+      "specialization": "Digital Media Studies",
+      "startDate": "2008-09-01",
+      "endDate": "2012-12-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "2008-04-01",
+      "awarder": "Boy Scouts of America"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "PHP",
+        "SQL",
+        "HTML",
+        "SCSS",
+        "Git",
+        "Apache/NGINX Servers",
+        "Windows/Linux Hosting",
+        "AWS (EC2, S3, CloudFront)",
+        "React (Gatsby, NextJS)",
+        "React Native",
+        "Vercel",
+        "Netlify",
+        "Wordpress",
+        "Shopify",
+        "jQuery",
+        "Hubspot",
+        "Crownpeak",
+        "Cloudflare",
+        "Let's Encrypt",
+        "Agile Methodologies"
+      ]
+    }
+  ]
+}
